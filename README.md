@@ -1,2 +1,2 @@
-# AI--Lab-program1
+# AI1
 Joba algashky
